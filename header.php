@@ -15,7 +15,7 @@
   <div class="container">
 
     <?php b4st_navbar_brand();?>
-
+Here i am
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
